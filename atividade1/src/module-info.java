@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author guilf
- *
- */
-module Catolica {
-}
