@@ -2,7 +2,7 @@ package controledeestoque;
 
 import java.util.Scanner;
 
-public class Programa {
+public class Banco {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
