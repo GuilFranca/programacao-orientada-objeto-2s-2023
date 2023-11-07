@@ -1,28 +1,3 @@
-Desafios da área de formação do graduando à inclusão no mundo do trabalho:
-
--acesso a emprego;
--índices de desemprego;
--experiência, trabalho e articulação com própositos de vida;
--participação em entrevistas de seleção.
-
--Acesso a emprego:
-	Nos dias atuais a demanda por profissionais da área da T.I aumenta cada dia mais, chegando a necessidade de aproximadamente 150mil funcionários da área no comércio brasileiro. Com estas circunstâncias é normal encontrar empresas que investem na criação de seus próprios profissionais, oferecendo cursos profissionalizantes ou então contratando até mesmo pessoas que acabaram de começar a atuar na área sem experiência de mercado.
-
--Índices de desemprego:
-	Mesmo existindo uma grande demanda, existe também uma grande procura pela entrada na atuação de trabalhos na área de T.I, o que faz com que o mercado fique cada vez mais competitivo, o que acaba por gerar problemas com o desemprego, pois as empresas tem uma grande demananda de profissionais qualificados, porém a maior parte não possui nem ao menos experiência, gernado assim o desemprego. Além da volta a normalidade após os eventos da pandemia o que acabou por gerar uma grande quantidade de demissões, mas que logo voltaram ao normal.
-
--Experiência:
-	Na área de programação existem muitos caminhos para se escolher, sendo os mais comuns: frontend, backend, fullstack, app, entre outros. Todos tendo seu proposito e particularidade.
-	Os profissionais de frontend, estão mais ligados com o designe do site e com o relacionamento com as possiveis reações dos clientes.
-	Os que são responsaveis pelo backend são especializados com a funcionalidade do código em si, tendo a função de criar ou de consertar os mesmos.
-	Agora os profissionais que possuem conhecimento suficiente para atuar nas duas áreas anteriores ao mesmo tempo são conhecidos como fullstack.
-	Assim como também existem os que são responsaveis pelos aplicativos criados para smartphones, como dispositivos android ou então IOS.
-
--Seleção:
-	Na seleção de empregos da área de T.I é muito comum darem uma maior importancia aos projetos presentes no seu Github, pois é lá que descobrem se o candidato realmente possui uma real experiencia ou se é apenas uma cópia de algum curso barato.
-
-------- Corrigido ---------------------------------------------------------
-
 <project>
     <dependencies>
         <dependency>
